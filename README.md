@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 TeslaBot – Wireless Power Transmission Rover
 
 TeslaBot is a Bluetooth-controlled robotic rover integrated with a Tesla coil to enable wireless power transmission.
@@ -66,7 +65,4 @@ Eco-Friendly Development: More use of e-waste and recycled materials.
 Tesla coil produces high voltage – operate with caution.
 Keep away from flammable substances and sensitive devices.
 Ensure proper insulation and ventilation during operation.
-=======
-# TeslaBot
-Bluetooth-controlled robot car with Tesla coil for wireless power
->>>>>>> 36978be2b872d70a01a679ae436b5ef3503705d6
+
